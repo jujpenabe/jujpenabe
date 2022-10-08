@@ -1,7 +1,7 @@
 ### Honk! 🦢
 
 - 🔭 I’m currently working on: Neural Networks.
-- 🌱 I’m currently learning: RUST, ROS2
+- 🌱 I’m currently learning: RUST, ROS2, Stable Diffusion (AI), Godot Engine.
 - 📫 How to reach me: jujpenabe@unal.edu.co
 <!--
 **jujpenabe/jujpenabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jujpenabe&theme=github-dark&hide_border=true&border_radius=44&card_width=515&fire=EB750E&ring=134DEE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jujpenabe&theme=github-dark&hide_border=true&border_radius=44&card_width=595&fire=EB750E&ring=134DEE)](https://git.io/streak-stats)
 
 ### Honk! 🦢
 

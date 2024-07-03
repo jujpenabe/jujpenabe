@@ -3,7 +3,7 @@
 ### Honk! 🦢
 
 - 🔭 I’m currently working on: Game Development.
-- 🌱 I’m currently learning: Unreal, Godot, Bevy engines
+- 🌱 I’m currently learning: Godot
 - 📫 How to reach me: jujpenabe@unal.edu.co
 - 📁 Portfolio: https://shorturl.ac/jjpb-portfolio
 <!--

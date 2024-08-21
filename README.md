@@ -1,7 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jujpenabe&theme=github-dark&hide_border=true&border_radius=44&card_width=595&fire=EB750E&ring=134DEE)](https://git.io/streak-stats)
 
-### Honk! 🦢
-
 - 🔭 I’m currently working on: Development Tools.
 - 🌱 I’m currently learning: 3D Gaussian Splatting, XR, Web3D
 - 📫 How to reach me: jujpenabe@unal.edu.co

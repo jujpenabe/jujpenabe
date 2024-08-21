@@ -2,10 +2,10 @@
 
 ### Honk! 🦢
 
-- 🔭 I’m currently working on: Game Development.
-- 🌱 I’m currently learning: Godot
+- 🔭 I’m currently working on: Development Tools.
+- 🌱 I’m currently learning: 3D Gaussian Splatting, XR, Web3D
 - 📫 How to reach me: jujpenabe@unal.edu.co
-- 📁 Portfolio: https://shorturl.ac/jjpb-portfolio
+- 📁 Portfolio: [LINKS](https://mainpage.me/catblue44)
 <!--
 **jujpenabe/jujpenabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![image](https://user-images.githubusercontent.com/17988529/161149198-461e2665-4f2f-4892-87ab-86c4c92a22e8.png)
+-->

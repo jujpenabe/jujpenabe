@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Development Tools.
 - 🌱 I’m currently learning: WebDevelopment, Docker, PowerBI
 - 📫 How to reach me: juanjpb@proton.me
-- 📁 Portfolio: [LINKS](https://socialfolio.me/catblue44)
+- 📁 [Portfolio](https://socialfolio.me/juanjpb)
 <!--
 **jujpenabe/jujpenabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
